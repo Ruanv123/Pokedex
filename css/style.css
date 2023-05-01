@@ -9,11 +9,11 @@
 body {
   text-align: center;
   background: linear-gradient(
-    90deg,
+    180deg,
     rgba(106, 183, 245, 1) 35%,
     rgba(255, 255, 255, 1) 100%
   );
-  min-height: 100%;
+  min-height: 100vh;
 }
 
 main {
